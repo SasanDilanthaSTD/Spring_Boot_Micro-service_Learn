@@ -1,0 +1,20 @@
+{
+  "reference": "MS-20231201",
+  "amount": 900,
+  "paymentMethod": "PAYPAL",
+  "customerId": "665f1b763bfea15488bb7d74",
+  "products": [
+    {
+      "productId": 1,
+      "quantity": 1
+    },
+    {
+      "productId": 251,
+      "quantity": 1
+    },
+    {
+      "productId": 851,
+      "quantity": 1
+    }
+  ]
+}
